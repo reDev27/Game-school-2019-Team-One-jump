@@ -1,0 +1,1369 @@
+﻿Log file open, 03/23/19 10:48:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: scvdes
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.405413
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.048s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files (x86)/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Engine.ini]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Engine.ini]
+[2019.03.23-09.48.20:184][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Engine.ini]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Engine.ini]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.23-09.48.20:184][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.23-09.48.20:185][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.23-09.48.20:185][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.23-09.48.20:185][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.23-09.48.20:185][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.23-09.48.20:185][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.23-09.48.20:185][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.23-09.48.20:185][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.23-09.48.20:185][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.23-09.48.20:185][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Engine.ini]
+[2019.03.23-09.48.20:185][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Engine.ini]
+[2019.03.23-09.48.20:186][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.23-09.48.20:186][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.23-09.48.20:186][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.23-09.48.20:186][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.23-09.48.20:187][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.23-09.48.20:187][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.23-09.48.20:187][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.23-09.48.20:198][  0]LogHAL: Display: Platform has ~ 16 GB [17028075520 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.23-09.48.20:198][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.23-09.48.20:198][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.23-09.48.20:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.23-09.48.20:199][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.23-09.48.20:199][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/unreal_projects/scvdes/Saved/Config/Windows/Engine.ini]
+[2019.03.23-09.48.20:199][  0]LogInit: Computer: LAPTOP-4JFKCT8M
+[2019.03.23-09.48.20:199][  0]LogInit: User: rEDOx
+[2019.03.23-09.48.20:199][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.03.23-09.48.20:199][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.23-09.48.20:200][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.23-09.48.20:200][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.23-09.48.20:200][  0]LogMemory: Process Physical Memory: 104.75 MB used, 104.76 MB peak
+[2019.03.23-09.48.20:200][  0]LogMemory: Process Virtual Memory: 94.25 MB used, 94.25 MB peak
+[2019.03.23-09.48.20:200][  0]LogMemory: Physical Memory: 4071.24 MB used,  12168.00 MB free, 16239.24 MB total
+[2019.03.23-09.48.20:200][  0]LogMemory: Virtual Memory: 4670.29 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.03.23-09.48.20:214][  0]LogInit: Using OS detected language (it-IT).
+[2019.03.23-09.48.20:214][  0]LogInit: Using OS detected locale (it-IT).
+[2019.03.23-09.48.20:215][  0]LogTextLocalizationManager: No specific localization for 'it-IT' exists, so the 'it' localization will be used.
+[2019.03.23-09.48.20:216][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2019.03.23-09.48.20:216][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.23-09.48.20:253][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.23-09.48.20:253][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.23-09.48.20:487][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.23-09.48.20:487][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.23-09.48.20:541][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.03.23-09.48.20:541][  0]LogD3D11RHI:       4021/0/8119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.23-09.48.20:555][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.03.23-09.48.20:555][  0]LogD3D11RHI:       128/0/8119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.23-09.48.20:557][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.23-09.48.20:557][  0]LogD3D11RHI:       0/0/8119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.23-09.48.20:557][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.23-09.48.20:579][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.23-09.48.20:579][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.03.23-09.48.20:579][  0]LogWindows: EnumDisplayDevices:
+[2019.03.23-09.48.20:579][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.03.23-09.48.20:580][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.23-09.48.20:580][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.23-09.48.20:580][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.23-09.48.20:580][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.03.23-09.48.20:580][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.23-09.48.20:580][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.23-09.48.20:580][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.03.23-09.48.20:612][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.23-09.48.20:627][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.23-09.48.20:877][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.23-09.48.20:887][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.23-09.48.20:897][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.23-09.48.20:908][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.23-09.48.20:919][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.23-09.48.20:930][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.23-09.48.20:944][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.23-09.48.20:954][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.23-09.48.20:958][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:018][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-09.48.21:019][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.23-09.48.21:071][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.23-09.48.21:071][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.23-09.48.21:088][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.23-09.48.21:088][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.23-09.48.21:097][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.23-09.48.21:107][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.23-09.48.21:115][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.23-09.48.21:125][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.23-09.48.21:158][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.23-09.48.21:158][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.23-09.48.21:158][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.23-09.48.21:188][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../unreal_projects/scvdes/Intermediate/Shaders/WorkingDirectory/7324/).
+[2019.03.23-09.48.21:188][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rEDOx/AppData/Local/Temp/UnrealShaderWorkingDir/8E26B2D24858E02886B8BE850C8788AD/'.
+[2019.03.23-09.48.21:189][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.23-09.48.21:189][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.23-09.48.21:189][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.23-09.48.21:624][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.23-09.48.21:669][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/rEDOx/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.23-09.48.21:669][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rEDOx/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.23-09.48.21:669][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../unreal_projects/scvdes/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.23-09.48.21:669][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.23-09.48.21:669][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../unreal_projects/scvdes/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.23-09.48.21:669][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.23-09.48.21:682][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.23-09.48.21:682][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.23-09.48.21:682][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.23-09.48.21:694][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rEDOx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.23-09.48.21:694][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.23-09.48.21:694][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.23-09.48.21:713][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.23-09.48.21:714][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.23-09.48.21:714][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.23-09.48.21:785][  0]LogAssetRegistry: FAssetRegistry took 0.0307 seconds to start up
+[2019.03.23-09.48.22:025][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.23-09.48.22:140][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.23-09.48.22:142][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.23-09.48.22:142][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.23-09.48.22:142][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.23-09.48.22:142][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.23-09.48.22:152][  0]LogNetVersion: scvdes 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1506812339)
+[2019.03.23-09.48.22:528][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.055667 seconds
+[2019.03.23-09.48.22:532][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.23-09.48.22:532][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.03.23-09.48.22:532][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.23-09.48.23:175][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.23-09.48.23:188][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.23-09.48.23:188][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1
+[2019.03.23-09.48.23:188][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2019.03.23-09.48.23:188][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2019.03.23-09.48.23:808][  0]SourceControl: Source control is disabled
+[2019.03.23-09.48.23:808][  0]SourceControl: Source control is disabled
+[2019.03.23-09.48.23:809][  0]SourceControl: Source control is disabled
+[2019.03.23-09.48.23:809][  0]SourceControl: Source control is disabled
+[2019.03.23-09.48.23:952][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.23-09.48.24:011][  0]LogOcInput: OculusInput pre-init called
+[2019.03.23-09.48.24:139][  0]LogEngine: Initializing Engine...
+[2019.03.23-09.48.24:139][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.23-09.48.24:140][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.23-09.48.24:140][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.23-09.48.24:140][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.23-09.48.24:140][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.23-09.48.24:369][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.23-09.48.24:379][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.23-09.48.24:392][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-09.48.24:426][  0]LogInit: FAudioDevice initialized.
+[2019.03.23-09.48.24:427][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.23-09.48.24:538][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/rEDOx/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.23-09.48.24:547][  0]LogInit: Texture streaming: Enabled
+[2019.03.23-09.48.24:558][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.23-09.48.24:567][  0]LogInit: Transaction tracking system initialized
+[2019.03.23-09.48.24:582][  0]BlueprintLog: New page: Editor Load
+[2019.03.23-09.48.24:630][  0]LocalizationService: Localization service is disabled
+[2019.03.23-09.48.25:067][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_projects/scvdes/Content/' took 0.02s
+[2019.03.23-09.48.25:067][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.23-09.48.25:067][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.23-09.48.25:067][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.23-09.48.25:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.23-09.48.25:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.23-09.48.25:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.23-09.48.25:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.23-09.48.25:168][  0]SourceControl: Source control is disabled
+[2019.03.23-09.48.25:169][  0]Cmd: MAP LOAD FILE="../../../../../unreal_projects/scvdes/Content/official_level/tesla_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.23-09.48.25:169][  0]LightingResults: New page: Lighting Build
+[2019.03.23-09.48.25:170][  0]MapCheck: New page: Map Check
+[2019.03.23-09.48.25:170][  0]LightingResults: New page: Lighting Build
+[2019.03.23-09.48.25:773][  0]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-09.48.25:786][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.23-09.48.25:821][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.23-09.48.25:821][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,097ms to complete.
+[2019.03.23-09.48.25:821][  0]LogFileHelpers: Loading map 'tesla_level' took 0.652
+[2019.03.23-09.48.25:895][  0]LogCollectionManager: Loaded 0 collections in 0.001045 seconds
+[2019.03.23-09.48.25:910][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_projects/scvdes/Saved/Collections/' took 0.01s
+[2019.03.23-09.48.25:910][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_projects/scvdes/Content/Developers/rEDOx/Collections/' took 0.00s
+[2019.03.23-09.48.25:910][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_projects/scvdes/Content/Collections/' took 0.00s
+[2019.03.23-09.48.25:910][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.23-09.48.25:918][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2651 classes and 620 folders.
+[2019.03.23-09.48.25:922][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.23-09.48.25:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:929][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:929][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:932][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:932][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:935][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-09.48.25:963][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.23-09.48.25:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-09.48.25:989][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-09.48.25:996][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-09.48.26:004][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-09.48.26:011][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.03.23-09.48.26:076][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.23-09.48.26:079][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.23-09.48.26:081][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.23-09.48.26:180][  0]LogRenderer: Reallocating scene render targets to support 780x432 Format 9 NumSamples 1 (Frame:1).
+[2019.03.23-09.48.26:340][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.23-09.48.26:341][  0]LogLoad: (Engine Initialization) Total time: 7.55 seconds
+[2019.03.23-09.48.26:341][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.23-09.48.26:408][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.03.23-09.48.26:420][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.23-09.48.26:683][  4]LogAssetRegistry: Asset discovery search completed in 4.9214 seconds
+[2019.03.23-09.48.26:686][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.23-09.48.26:686][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2019.03.23-09.49.26:392][587]LogHttp: Warning: 00000248C73CB600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-09.49.26:392][587]LogHttp: Warning: 00000248C73CB600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-09.49.26:392][587]LogHttp: Warning: 00000248C73CB600: libcurl info message cache 1 (Closing connection 0)
+[2019.03.23-09.49.26:408][588]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-09.49.42:238][537]LogEditorViewport: Clicking on Actor (LMB): teslona_BP_C (teslona_BP)
+[2019.03.23-09.49.44:005][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-09.49.44:090][647]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.23-09.49.44:098][647]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/characters/teslaman/teslona/teslona_BP.teslona_BP
+[2019.03.23-09.49.44:625][647]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.03.23-09.49.45:459][647]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.23-09.49.45:644][648]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.23-09.51.26:444][674]LogHttp: Warning: 00000248EFE52980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-09.51.26:444][674]LogHttp: Warning: 00000248EFE52980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-09.51.26:444][674]LogHttp: Warning: 00000248EFE52980: libcurl info message cache 1 (Closing connection 1)
+[2019.03.23-09.51.26:444][674]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-09.53.08:457][621]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/prot_mio/prot_mio_finito.prot_mio_finito
+[2019.03.23-09.53.26:489][611]LogHttp: Warning: 0000024883A56840: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-09.53.26:489][611]LogHttp: Warning: 0000024883A56840: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-09.53.26:489][611]LogHttp: Warning: 0000024883A56840: libcurl info message cache 1 (Closing connection 2)
+[2019.03.23-09.53.26:507][612]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-09.53.56:540][345]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.23-09.54.00:350][563]BlueprintLog: New page: Compile prot_mio_finito
+[2019.03.23-09.55.26:572][616]LogHttp: Warning: 00000248E3535940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-09.55.26:572][616]LogHttp: Warning: 00000248E3535940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-09.55.26:572][616]LogHttp: Warning: 00000248E3535940: libcurl info message cache 1 (Closing connection 3)
+[2019.03.23-09.55.26:572][616]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-09.57.26:617][741]LogHttp: Warning: 00000248A821B4C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-09.57.26:617][741]LogHttp: Warning: 00000248A821B4C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-09.57.26:617][741]LogHttp: Warning: 00000248A821B4C0: libcurl info message cache 1 (Closing connection 4)
+[2019.03.23-09.57.26:633][742]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-09.59.26:652][912]LogHttp: Warning: 00000248FFBB4400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-09.59.26:652][912]LogHttp: Warning: 00000248FFBB4400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-09.59.26:653][912]LogHttp: Warning: 00000248FFBB4400: libcurl info message cache 1 (Closing connection 5)
+[2019.03.23-09.59.26:653][912]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.01.26:677][ 74]LogHttp: Warning: 00000248F00F02C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.01.26:677][ 74]LogHttp: Warning: 00000248F00F02C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.01.26:677][ 74]LogHttp: Warning: 00000248F00F02C0: libcurl info message cache 1 (Closing connection 6)
+[2019.03.23-10.01.26:677][ 74]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.03.26:716][256]LogHttp: Warning: 0000024900487740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.03.26:716][256]LogHttp: Warning: 0000024900487740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.03.26:716][256]LogHttp: Warning: 0000024900487740: libcurl info message cache 1 (Closing connection 7)
+[2019.03.23-10.03.26:717][256]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.03.36:870][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prot_mio/prot_mio_finito" FILE="../../../../../unreal_projects/scvdes/Content/prot_mio/prot_mio_finito.uasset" SILENT=true
+[2019.03.23-10.03.36:974][858]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/prot_mio_finito7818EED04694ACFB70AE919DE4FFB863.tmp' to '../../../../../unreal_projects/scvdes/Content/prot_mio/prot_mio_finito.uasset'
+[2019.03.23-10.03.37:658][898]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.03.37:678][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.03.37:678][898]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.03.37:708][898]LogPlayLevel: [PlayLevel] Compiling prot_mio_finito before play...
+[2019.03.23-10.03.37:906][898]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.03.38:090][898]LogPlayLevel: PlayLevel: Blueprint regeneration took 412 ms (2 blueprints)
+[2019.03.23-10.03.38:091][898]PIE: New page: PIE session: tesla_level (23/mar/2019 12:03:38)
+[2019.03.23-10.03.38:103][898]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.03.38:105][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001878s)
+[2019.03.23-10.03.38:105][898]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.03.38:105][898]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2019.03.23-10.03.38:105][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002609s)
+[2019.03.23-10.03.38:140][898]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.03.38:167][898]LogInit: FAudioDevice initialized.
+[2019.03.23-10.03.38:172][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.03.38:263][898]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.03.38:265][898]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.03.38
+[2019.03.23-10.03.38:265][898]LogWorld: Bringing up level for play took: 0.001227
+[2019.03.23-10.03.38:283][898]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.03.23-10.03.38:290][898]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 0,751
+[2019.03.23-10.03.38:290][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.03.38:407][898]LogRenderer: Reallocating scene render targets to support 892x504 Format 9 NumSamples 1 (Frame:1).
+[2019.03.23-10.03.39:879][983]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.03.39:879][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.03.39:902][983]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.03.39:938][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.03.39:938][983]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.03.40:001][984]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.03.23-10.05.17:446][766]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.05.17:478][766]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.05.17:478][766]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.05.17:503][766]LogPlayLevel: [PlayLevel] Compiling prot_mio_finito before play...
+[2019.03.23-10.05.17:727][766]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.05.17:932][766]LogPlayLevel: PlayLevel: Blueprint regeneration took 454 ms (2 blueprints)
+[2019.03.23-10.05.17:932][766]PIE: New page: PIE session: tesla_level (23/mar/2019 12:05:17)
+[2019.03.23-10.05.17:932][766]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.05.17:934][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002345s)
+[2019.03.23-10.05.17:935][766]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.05.17:935][766]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2019.03.23-10.05.17:935][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.003038s)
+[2019.03.23-10.05.17:977][766]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.05.18:006][766]LogInit: FAudioDevice initialized.
+[2019.03.23-10.05.18:011][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.05.18:092][766]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.05.18:094][766]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.05.18
+[2019.03.23-10.05.18:095][766]LogWorld: Bringing up level for play took: 0.002594
+[2019.03.23-10.05.18:114][766]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 0,575
+[2019.03.23-10.05.18:114][766]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.05.26:750][277]LogHttp: Warning: 00000248830C9A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.05.26:751][277]LogHttp: Warning: 00000248830C9A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.05.26:751][277]LogHttp: Warning: 00000248830C9A80: libcurl info message cache 1 (Closing connection 8)
+[2019.03.23-10.05.26:767][278]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.06.05:498][601]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.06.05:498][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.06.05:517][601]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.06.05:547][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.06.05:548][601]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.06.05:632][602]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.03.23-10.06.56:369][607]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/tesla_level_Auto105C16C1543FCD10170097AB84E76EE94.tmp' to '../../../../../unreal_projects/scvdes/Saved/Autosaves/Game/official_level/tesla_level_Auto1.umap'
+[2019.03.23-10.06.56:373][607]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/official_level/tesla_level' took 0.211
+[2019.03.23-10.06.56:373][607]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.211
+[2019.03.23-10.06.56:375][607]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/prot_mio/prot_mio_finito] ([1] browsable assets)...
+[2019.03.23-10.06.56:399][607]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/prot_mio/prot_mio_finito.prot_mio_finito]
+[2019.03.23-10.06.56:399][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/prot_mio/prot_mio_finito]
+[2019.03.23-10.06.56:399][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prot_mio/prot_mio_finito" FILE="../../../../../unreal_projects/scvdes/Saved/Autosaves/Game/prot_mio/prot_mio_finito_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.03.23-10.06.56:513][607]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/prot_mio_finito_Auto1238392F543546017E57B0CBA26BFAE01.tmp' to '../../../../../unreal_projects/scvdes/Saved/Autosaves/Game/prot_mio/prot_mio_finito_Auto1.uasset'
+[2019.03.23-10.06.56:799][607]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/characters/teslaman/teslona/teslona_BP] ([1] browsable assets)...
+[2019.03.23-10.06.56:833][607]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/characters/teslaman/teslona/teslona_BP.teslona_BP]
+[2019.03.23-10.06.56:833][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/characters/teslaman/teslona/teslona_BP]
+[2019.03.23-10.06.56:924][607]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/teslona_BP_Auto1BA9F2C2B4D1461939DB78AB880FB6B0A.tmp' to '../../../../../unreal_projects/scvdes/Saved/Autosaves/Game/characters/teslaman/teslona/teslona_BP_Auto1.uasset'
+[2019.03.23-10.06.56:924][607]LogFileHelpers: Auto-saving content packages took 0.549
+[2019.03.23-10.07.26:790][343]LogHttp: Warning: 0000024904184180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.07.26:790][343]LogHttp: Warning: 0000024904184180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.07.26:790][343]LogHttp: Warning: 0000024904184180: libcurl info message cache 1 (Closing connection 9)
+[2019.03.23-10.07.26:805][344]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.08.09:360][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/teslaman/teslona/teslona_BP" FILE="../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset" SILENT=true
+[2019.03.23-10.08.09:440][794]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/teslona_BP4FDE41D147826C13E68FABA3AB098242.tmp' to '../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset'
+[2019.03.23-10.08.10:044][829]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.08.10:077][829]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.08.10:077][829]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.08.10:093][829]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.08.10:275][829]LogPlayLevel: PlayLevel: Blueprint regeneration took 197 ms (1 blueprints)
+[2019.03.23-10.08.10:275][829]PIE: New page: PIE session: tesla_level (23/mar/2019 12:08:10)
+[2019.03.23-10.08.10:275][829]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.08.10:277][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002175s)
+[2019.03.23-10.08.10:278][829]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.08.10:278][829]LogPlayLevel: PIE: World Init took: (0.000473s)
+[2019.03.23-10.08.10:278][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002750s)
+[2019.03.23-10.08.10:320][829]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.08.10:345][829]LogInit: FAudioDevice initialized.
+[2019.03.23-10.08.10:349][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.08.10:428][829]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.08.10:430][829]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.08.10
+[2019.03.23-10.08.10:430][829]LogWorld: Bringing up level for play took: 0.001121
+[2019.03.23-10.08.10:449][829]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 0,911
+[2019.03.23-10.08.10:450][829]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.08.27:488][839]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.08.27:488][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.08.27:512][839]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.08.27:547][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.08.27:547][839]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.08.27:618][840]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.03.23-10.08.36:028][326]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/prot_mio/widget/UI_principal.UI_principal
+[2019.03.23-10.09.26:832][250]LogHttp: Warning: 0000024922B4F880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.09.26:832][250]LogHttp: Warning: 0000024922B4F880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.09.26:832][250]LogHttp: Warning: 0000024922B4F880: libcurl info message cache 1 (Closing connection 10)
+[2019.03.23-10.09.26:832][250]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.09.49:593][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prot_mio/widget/UI_principal" FILE="../../../../../unreal_projects/scvdes/Content/prot_mio/widget/UI_principal.uasset" SILENT=true
+[2019.03.23-10.09.49:631][601]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/UI_principal66642A5B46BA35F106CC64AEC309B16B.tmp' to '../../../../../unreal_projects/scvdes/Content/prot_mio/widget/UI_principal.uasset'
+[2019.03.23-10.09.50:452][650]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.09.50:479][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.09.50:479][650]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.09.50:496][650]LogPlayLevel: [PlayLevel] Compiling UI_principal before play...
+[2019.03.23-10.09.50:972][650]LogPlayLevel: PlayLevel: Blueprint regeneration took 492 ms (1 blueprints)
+[2019.03.23-10.09.50:972][650]PIE: New page: PIE session: tesla_level (23/mar/2019 12:09:50)
+[2019.03.23-10.09.50:972][650]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.09.50:974][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002413s)
+[2019.03.23-10.09.50:975][650]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.09.50:975][650]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2019.03.23-10.09.50:975][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.003158s)
+[2019.03.23-10.09.51:019][650]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.09.51:048][650]LogInit: FAudioDevice initialized.
+[2019.03.23-10.09.51:053][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.09.51:138][650]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.09.51:141][650]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.09.51
+[2019.03.23-10.09.51:141][650]LogWorld: Bringing up level for play took: 0.002222
+[2019.03.23-10.09.51:160][650]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 1,621
+[2019.03.23-10.09.51:160][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.10.05:867][527]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.10.05:868][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.10.05:891][527]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.10.05:927][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.10.05:927][527]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.10.05:998][528]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.03.23-10.11.26:870][348]LogHttp: Warning: 0000024921AFDA80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.11.26:870][348]LogHttp: Warning: 0000024921AFDA80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.11.26:870][348]LogHttp: Warning: 0000024921AFDA80: libcurl info message cache 1 (Closing connection 11)
+[2019.03.23-10.11.26:870][348]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.12.59:850][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prot_mio/widget/UI_principal" FILE="../../../../../unreal_projects/scvdes/Content/prot_mio/widget/UI_principal.uasset" SILENT=true
+[2019.03.23-10.12.59:885][914]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/UI_principalD232B04645FFCB22EFB7E8B5D16419A5.tmp' to '../../../../../unreal_projects/scvdes/Content/prot_mio/widget/UI_principal.uasset'
+[2019.03.23-10.13.00:555][954]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.13.00:587][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.13.00:587][954]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.13.00:604][954]LogPlayLevel: [PlayLevel] Compiling UI_principal before play...
+[2019.03.23-10.13.00:792][954]LogPlayLevel: PlayLevel: Blueprint regeneration took 205 ms (1 blueprints)
+[2019.03.23-10.13.00:792][954]PIE: New page: PIE session: tesla_level (23/mar/2019 12:13:00)
+[2019.03.23-10.13.00:792][954]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.13.00:795][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002492s)
+[2019.03.23-10.13.00:795][954]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.13.00:795][954]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2019.03.23-10.13.00:795][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.003238s)
+[2019.03.23-10.13.00:838][954]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.13.00:876][954]LogInit: FAudioDevice initialized.
+[2019.03.23-10.13.00:881][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.13.00:966][954]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.13.00:969][954]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.13.00
+[2019.03.23-10.13.00:969][954]LogWorld: Bringing up level for play took: 0.002462
+[2019.03.23-10.13.00:988][954]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level -0,55
+[2019.03.23-10.13.00:988][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.13.14:638][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.13.14:638][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.13.14:661][767]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.13.14:696][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.13.14:696][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.13.14:765][768]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.03.23-10.13.26:924][495]LogHttp: Warning: 0000024922B4CF40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.13.26:924][495]LogHttp: Warning: 0000024922B4CF40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.13.26:924][495]LogHttp: Warning: 0000024922B4CF40: libcurl info message cache 1 (Closing connection 12)
+[2019.03.23-10.13.26:924][495]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.13.50:202][891]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.13.50:224][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.13.50:224][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-10.13.50:225][891]PIE: New page: PIE session: tesla_level (23/mar/2019 12:13:50)
+[2019.03.23-10.13.50:225][891]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.13.50:227][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001913s)
+[2019.03.23-10.13.50:227][891]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.13.50:227][891]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2019.03.23-10.13.50:227][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002484s)
+[2019.03.23-10.13.50:269][891]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.13.50:294][891]LogInit: FAudioDevice initialized.
+[2019.03.23-10.13.50:298][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.13.50:381][891]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.13.50:383][891]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.13.50
+[2019.03.23-10.13.50:383][891]LogWorld: Bringing up level for play took: 0.001091
+[2019.03.23-10.13.50:400][891]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 0,862
+[2019.03.23-10.13.50:401][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.13.51:821][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.13.51:822][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.13.51:842][974]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.13.51:877][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.13.51:877][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.13.51:944][975]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.03.23-10.14.12:235][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prot_mio/widget/UI_principal" FILE="../../../../../unreal_projects/scvdes/Content/prot_mio/widget/UI_principal.uasset" SILENT=true
+[2019.03.23-10.14.12:266][173]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/UI_principal1FA55B564D871E94D3FB30A5AC0E05B6.tmp' to '../../../../../unreal_projects/scvdes/Content/prot_mio/widget/UI_principal.uasset'
+[2019.03.23-10.14.12:901][211]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.14.12:927][211]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.14.12:927][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-10.14.12:927][211]PIE: New page: PIE session: tesla_level (23/mar/2019 12:14:12)
+[2019.03.23-10.14.12:928][211]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.14.12:930][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001967s)
+[2019.03.23-10.14.12:930][211]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.14.12:930][211]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2019.03.23-10.14.12:930][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002595s)
+[2019.03.23-10.14.12:966][211]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.14.12:990][211]LogInit: FAudioDevice initialized.
+[2019.03.23-10.14.12:993][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.14.13:071][211]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.14.13:073][211]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.14.13
+[2019.03.23-10.14.13:073][211]LogWorld: Bringing up level for play took: 0.001029
+[2019.03.23-10.14.13:091][211]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level -0,448
+[2019.03.23-10.14.13:091][211]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.14.19:115][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.14.19:115][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.14.19:136][570]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.14.19:188][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.14.19:188][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.14.19:261][571]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.03.23-10.14.40:585][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prot_mio/widget/UI_principal" FILE="../../../../../unreal_projects/scvdes/Content/prot_mio/widget/UI_principal.uasset" SILENT=true
+[2019.03.23-10.14.40:617][826]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/UI_principal1B21877C406446A461E0E49322AE4FB1.tmp' to '../../../../../unreal_projects/scvdes/Content/prot_mio/widget/UI_principal.uasset'
+[2019.03.23-10.14.43:636][  7]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.14.43:666][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.14.43:666][  7]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.14.43:683][  7]LogPlayLevel: [PlayLevel] Compiling UI_principal before play...
+[2019.03.23-10.14.43:895][  7]LogPlayLevel: PlayLevel: Blueprint regeneration took 228 ms (1 blueprints)
+[2019.03.23-10.14.43:895][  7]PIE: New page: PIE session: tesla_level (23/mar/2019 12:14:43)
+[2019.03.23-10.14.43:896][  7]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.14.43:898][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002575s)
+[2019.03.23-10.14.43:899][  7]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.14.43:899][  7]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2019.03.23-10.14.43:899][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.003264s)
+[2019.03.23-10.14.43:949][  7]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.14.43:977][  7]LogInit: FAudioDevice initialized.
+[2019.03.23-10.14.43:983][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.14.44:059][  7]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.14.44:061][  7]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.14.44
+[2019.03.23-10.14.44:061][  7]LogWorld: Bringing up level for play took: 0.001242
+[2019.03.23-10.14.44:079][  7]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 0,541
+[2019.03.23-10.14.44:079][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.15.03:670][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.15.03:671][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.15.03:695][174]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.15.03:732][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.15.03:732][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.15.03:801][175]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.23-10.15.26:952][542]LogHttp: Warning: 0000024911FEF740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.15.26:952][542]LogHttp: Warning: 0000024911FEF740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.15.26:952][542]LogHttp: Warning: 0000024911FEF740: libcurl info message cache 1 (Closing connection 13)
+[2019.03.23-10.15.26:952][542]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.17.27:368][113]LogHttp: Warning: 0000024911FEDF80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.17.27:368][113]LogHttp: Warning: 0000024911FEDF80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.17.27:368][113]LogHttp: Warning: 0000024911FEDF80: libcurl info message cache 1 (Closing connection 14)
+[2019.03.23-10.17.27:704][114]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.18.12:205][979]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/tesla_level_Auto2A697C1E547D6E7430A1BDF9C3B357F45.tmp' to '../../../../../unreal_projects/scvdes/Saved/Autosaves/Game/official_level/tesla_level_Auto2.umap'
+[2019.03.23-10.18.12:212][979]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/official_level/tesla_level' took 0.216
+[2019.03.23-10.18.12:212][979]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.216
+[2019.03.23-10.18.12:214][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/prot_mio/prot_mio_finito] ([1] browsable assets)...
+[2019.03.23-10.18.12:238][979]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/prot_mio/prot_mio_finito.prot_mio_finito]
+[2019.03.23-10.18.12:238][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/prot_mio/prot_mio_finito]
+[2019.03.23-10.18.12:238][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prot_mio/prot_mio_finito" FILE="../../../../../unreal_projects/scvdes/Saved/Autosaves/Game/prot_mio/prot_mio_finito_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.03.23-10.18.12:345][979]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/prot_mio_finito_Auto292E0FEC8416DE82EEDDD229F9046FDBE.tmp' to '../../../../../unreal_projects/scvdes/Saved/Autosaves/Game/prot_mio/prot_mio_finito_Auto2.uasset'
+[2019.03.23-10.18.12:346][979]LogFileHelpers: Auto-saving content packages took 0.133
+[2019.03.23-10.18.25:531][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/teslaman/teslona/teslona_BP" FILE="../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset" SILENT=true
+[2019.03.23-10.18.25:614][766]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/teslona_BPFA8F1B13491D0862013635B36CD6E31B.tmp' to '../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset'
+[2019.03.23-10.19.13:757][642]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.19.13:792][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.19.13:792][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-10.19.13:792][642]PIE: New page: PIE session: tesla_level (23/mar/2019 12:19:13)
+[2019.03.23-10.19.13:792][642]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.19.13:794][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002079s)
+[2019.03.23-10.19.13:795][642]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.19.13:795][642]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2019.03.23-10.19.13:795][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002720s)
+[2019.03.23-10.19.13:835][642]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.19.13:861][642]LogInit: FAudioDevice initialized.
+[2019.03.23-10.19.13:864][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.19.13:942][642]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.19.13:944][642]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.19.13
+[2019.03.23-10.19.13:944][642]LogWorld: Bringing up level for play took: 0.001176
+[2019.03.23-10.19.13:962][642]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 0,423
+[2019.03.23-10.19.13:962][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.19.27:748][466]LogHttp: Warning: 0000024901180B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.19.27:748][466]LogHttp: Warning: 0000024901180B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.19.27:748][466]LogHttp: Warning: 0000024901180B80: libcurl info message cache 1 (Closing connection 15)
+[2019.03.23-10.19.27:748][466]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.19.29:540][573]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.19.29:540][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.19.29:560][573]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.19.29:609][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.19.29:610][573]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.19.29:676][574]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.03.23-10.19.42:613][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/teslaman/teslona/teslona_BP" FILE="../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset" SILENT=true
+[2019.03.23-10.19.42:692][340]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/teslona_BPBC0C1B2B4F67B0D60C5DD48B08D1C390.tmp' to '../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset'
+[2019.03.23-10.19.43:625][395]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.19.43:647][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.19.43:647][395]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.19.43:662][395]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.19.43:857][395]LogPlayLevel: PlayLevel: Blueprint regeneration took 211 ms (1 blueprints)
+[2019.03.23-10.19.43:857][395]PIE: New page: PIE session: tesla_level (23/mar/2019 12:19:43)
+[2019.03.23-10.19.43:857][395]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.19.43:860][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002122s)
+[2019.03.23-10.19.43:860][395]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.19.43:860][395]LogPlayLevel: PIE: World Init took: (0.000479s)
+[2019.03.23-10.19.43:860][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002699s)
+[2019.03.23-10.19.43:898][395]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.19.43:922][395]LogInit: FAudioDevice initialized.
+[2019.03.23-10.19.43:927][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.19.44:004][395]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.19.44:006][395]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.19.44
+[2019.03.23-10.19.44:006][395]LogWorld: Bringing up level for play took: 0.001051
+[2019.03.23-10.19.44:025][395]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 0,487
+[2019.03.23-10.19.44:026][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.20.33:069][317]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.20.33:070][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.20.33:095][317]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.20.33:129][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.20.33:130][317]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.20.33:202][318]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.03.23-10.20.59:379][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/teslaman/teslona/teslona_BP" FILE="../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset" SILENT=true
+[2019.03.23-10.20.59:459][881]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/teslona_BP086CF1DE4F5AEE29FF671281B47B15FB.tmp' to '../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset'
+[2019.03.23-10.21.00:008][913]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.21.00:046][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.21.00:046][913]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.21.00:062][913]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.21.00:245][913]LogPlayLevel: PlayLevel: Blueprint regeneration took 199 ms (1 blueprints)
+[2019.03.23-10.21.00:245][913]PIE: New page: PIE session: tesla_level (23/mar/2019 12:21:00)
+[2019.03.23-10.21.00:245][913]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.21.00:247][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002059s)
+[2019.03.23-10.21.00:248][913]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.21.00:248][913]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2019.03.23-10.21.00:248][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002634s)
+[2019.03.23-10.21.00:289][913]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.21.00:313][913]LogInit: FAudioDevice initialized.
+[2019.03.23-10.21.00:318][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.21.00:396][913]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.21.00:398][913]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.21.00
+[2019.03.23-10.21.00:398][913]LogWorld: Bringing up level for play took: 0.001061
+[2019.03.23-10.21.00:416][913]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 0,877
+[2019.03.23-10.21.00:416][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.21.09:307][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.21.09:308][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.21.09:332][440]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.21.09:364][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.21.09:364][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.21.09:428][441]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.03.23-10.21.27:791][539]LogHttp: Warning: 0000024922B4E700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.21.27:791][539]LogHttp: Warning: 0000024922B4E700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.21.27:791][539]LogHttp: Warning: 0000024922B4E700: libcurl info message cache 1 (Closing connection 16)
+[2019.03.23-10.21.27:807][540]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.21.30:543][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/teslaman/teslona/teslona_BP" FILE="../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset" SILENT=true
+[2019.03.23-10.21.30:623][702]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/teslona_BPA7CE29AC41BA0799A9CD049D1B433494.tmp' to '../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset'
+[2019.03.23-10.21.32:504][814]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.21.32:547][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.21.32:547][814]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.21.32:567][814]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.21.32:758][814]LogPlayLevel: PlayLevel: Blueprint regeneration took 211 ms (1 blueprints)
+[2019.03.23-10.21.32:758][814]PIE: New page: PIE session: tesla_level (23/mar/2019 12:21:32)
+[2019.03.23-10.21.32:758][814]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.21.32:760][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002271s)
+[2019.03.23-10.21.32:761][814]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.21.32:761][814]LogPlayLevel: PIE: World Init took: (0.000499s)
+[2019.03.23-10.21.32:761][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002871s)
+[2019.03.23-10.21.32:798][814]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.21.32:822][814]LogInit: FAudioDevice initialized.
+[2019.03.23-10.21.32:826][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.21.32:903][814]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.21.32:904][814]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.21.32
+[2019.03.23-10.21.32:905][814]LogWorld: Bringing up level for play took: 0.001074
+[2019.03.23-10.21.32:923][814]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 1,384
+[2019.03.23-10.21.32:923][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.21.38:447][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.21.38:447][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.21.38:472][139]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.21.38:507][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.21.38:507][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.21.38:574][140]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.03.23-10.22.48:738][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prot_mio/widget/UI_principal" FILE="../../../../../unreal_projects/scvdes/Content/prot_mio/widget/UI_principal.uasset" SILENT=true
+[2019.03.23-10.22.48:774][325]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/UI_principal54174FB84048495EDF484DB56DAB2F7A.tmp' to '../../../../../unreal_projects/scvdes/Content/prot_mio/widget/UI_principal.uasset'
+[2019.03.23-10.23.27:868][634]LogHttp: Warning: 0000024933F12340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.23.27:868][634]LogHttp: Warning: 0000024933F12340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.23.27:868][634]LogHttp: Warning: 0000024933F12340: libcurl info message cache 1 (Closing connection 17)
+[2019.03.23-10.23.27:868][634]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.24.04:958][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prot_mio/widget/UI_principal" FILE="../../../../../unreal_projects/scvdes/Content/prot_mio/widget/UI_principal.uasset" SILENT=true
+[2019.03.23-10.24.04:997][833]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/UI_principalC5A1A8A84744421E3F3E83AE4F7F4E47.tmp' to '../../../../../unreal_projects/scvdes/Content/prot_mio/widget/UI_principal.uasset'
+[2019.03.23-10.24.05:734][877]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.24.05:789][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.24.05:789][877]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.24.05:831][877]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.24.06:025][877]LogPlayLevel: [PlayLevel] Compiling UI_principal before play...
+[2019.03.23-10.24.06:222][877]LogPlayLevel: PlayLevel: Blueprint regeneration took 432 ms (2 blueprints)
+[2019.03.23-10.24.06:222][877]PIE: New page: PIE session: tesla_level (23/mar/2019 12:24:06)
+[2019.03.23-10.24.06:222][877]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.24.06:225][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002497s)
+[2019.03.23-10.24.06:225][877]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.24.06:226][877]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2019.03.23-10.24.06:226][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.003209s)
+[2019.03.23-10.24.06:272][877]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.24.06:307][877]LogInit: FAudioDevice initialized.
+[2019.03.23-10.24.06:312][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.24.06:394][877]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.24.06:396][877]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.24.06
+[2019.03.23-10.24.06:396][877]LogWorld: Bringing up level for play took: 0.001253
+[2019.03.23-10.24.06:414][877]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 0,876
+[2019.03.23-10.24.06:415][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.24.16:027][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.24.16:028][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.24.16:062][448]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.24.16:097][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.24.16:097][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.24.16:175][449]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.03.23-10.25.27:900][691]LogHttp: Warning: 000002490FBC7600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.25.27:900][691]LogHttp: Warning: 000002490FBC7600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.25.27:900][691]LogHttp: Warning: 000002490FBC7600: libcurl info message cache 1 (Closing connection 18)
+[2019.03.23-10.25.27:916][692]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.26.43:167][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/teslaman/teslona/teslona_BP" FILE="../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset" SILENT=true
+[2019.03.23-10.26.43:265][159]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/teslona_BPEF6563224876AD0ED22A1A92E871281D.tmp' to '../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset'
+[2019.03.23-10.26.45:235][273]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.26.45:274][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.26.45:274][273]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.26.45:299][273]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.26.45:525][273]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (1 blueprints)
+[2019.03.23-10.26.45:526][273]PIE: New page: PIE session: tesla_level (23/mar/2019 12:26:45)
+[2019.03.23-10.26.45:526][273]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.26.45:528][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002458s)
+[2019.03.23-10.26.45:529][273]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.26.45:529][273]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2019.03.23-10.26.45:529][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.003110s)
+[2019.03.23-10.26.45:574][273]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.26.45:602][273]LogInit: FAudioDevice initialized.
+[2019.03.23-10.26.45:607][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.26.45:688][273]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.26.45:690][273]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.26.45
+[2019.03.23-10.26.45:690][273]LogWorld: Bringing up level for play took: 0.001250
+[2019.03.23-10.26.45:708][273]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 0,169
+[2019.03.23-10.26.45:709][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.27.25:762][658]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.27.25:762][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.27.25:786][658]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.27.25:819][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.27.25:820][658]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.27.25:895][659]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.03.23-10.27.27:947][778]LogHttp: Warning: 000002492CFC7EC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.27.27:947][778]LogHttp: Warning: 000002492CFC7EC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.27.27:947][778]LogHttp: Warning: 000002492CFC7EC0: libcurl info message cache 1 (Closing connection 19)
+[2019.03.23-10.27.27:947][778]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.28.30:861][535]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.28.30:901][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.28.30:901][535]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.28.30:919][535]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.28.31:178][535]LogPlayLevel: PlayLevel: Blueprint regeneration took 277 ms (1 blueprints)
+[2019.03.23-10.28.31:179][535]PIE: New page: PIE session: tesla_level (23/mar/2019 12:28:31)
+[2019.03.23-10.28.31:179][535]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.28.31:181][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002279s)
+[2019.03.23-10.28.31:181][535]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.28.31:181][535]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2019.03.23-10.28.31:182][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002958s)
+[2019.03.23-10.28.31:225][535]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.28.31:253][535]LogInit: FAudioDevice initialized.
+[2019.03.23-10.28.31:259][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.28.31:342][535]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.28.31:344][535]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.28.31
+[2019.03.23-10.28.31:344][535]LogWorld: Bringing up level for play took: 0.001278
+[2019.03.23-10.28.31:365][535]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level -0,174
+[2019.03.23-10.28.31:365][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.29.11:463][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.29.11:463][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.29.11:488][924]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.29.11:520][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.29.11:520][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.29.11:591][925]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.03.23-10.29.12:609][984]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.29.12:649][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.29.12:650][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-10.29.12:650][984]PIE: New page: PIE session: tesla_level (23/mar/2019 12:29:12)
+[2019.03.23-10.29.12:650][984]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.29.12:652][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002078s)
+[2019.03.23-10.29.12:652][984]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.29.12:652][984]LogPlayLevel: PIE: World Init took: (0.000469s)
+[2019.03.23-10.29.12:652][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002643s)
+[2019.03.23-10.29.12:690][984]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.29.12:715][984]LogInit: FAudioDevice initialized.
+[2019.03.23-10.29.12:719][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.29.12:798][984]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.29.12:800][984]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.29.12
+[2019.03.23-10.29.12:800][984]LogWorld: Bringing up level for play took: 0.001079
+[2019.03.23-10.29.12:817][984]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level -0,721
+[2019.03.23-10.29.12:818][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.29.27:971][881]LogHttp: Warning: 0000024933F10A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.29.27:971][881]LogHttp: Warning: 0000024933F10A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.29.27:971][881]LogHttp: Warning: 0000024933F10A40: libcurl info message cache 1 (Closing connection 20)
+[2019.03.23-10.29.27:987][882]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.29.29:892][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.29.29:893][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.29.29:914][996]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.29.29:966][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.29.29:966][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.29.30:117][997]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.03.23-10.30.16:152][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/teslaman/teslona/teslona_BP" FILE="../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset" SILENT=true
+[2019.03.23-10.30.16:241][751]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/teslona_BPA5FA25E149ACC18ECD741C9F87DB437C.tmp' to '../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset'
+[2019.03.23-10.30.16:875][783]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.30.16:897][783]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.30.16:897][783]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.30.16:920][783]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.30.17:161][783]LogPlayLevel: PlayLevel: Blueprint regeneration took 264 ms (1 blueprints)
+[2019.03.23-10.30.17:161][783]PIE: New page: PIE session: tesla_level (23/mar/2019 12:30:17)
+[2019.03.23-10.30.17:161][783]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.30.17:164][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002545s)
+[2019.03.23-10.30.17:164][783]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.30.17:165][783]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2019.03.23-10.30.17:165][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.003204s)
+[2019.03.23-10.30.17:212][783]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.30.17:243][783]LogInit: FAudioDevice initialized.
+[2019.03.23-10.30.17:248][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.30.17:327][783]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.30.17:329][783]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.30.17
+[2019.03.23-10.30.17:329][783]LogWorld: Bringing up level for play took: 0.001295
+[2019.03.23-10.30.17:348][783]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level -0,191
+[2019.03.23-10.30.17:348][783]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.30.21:770][ 38]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.30.21:771][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.30.21:794][ 38]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.30.21:830][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.30.21:830][ 38]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.30.21:910][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.03.23-10.30.26:460][309]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.30.26:500][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.30.26:500][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-10.30.26:500][309]PIE: New page: PIE session: tesla_level (23/mar/2019 12:30:26)
+[2019.03.23-10.30.26:500][309]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.30.26:502][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001901s)
+[2019.03.23-10.30.26:502][309]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.30.26:502][309]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2019.03.23-10.30.26:502][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002443s)
+[2019.03.23-10.30.26:539][309]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.30.26:566][309]LogInit: FAudioDevice initialized.
+[2019.03.23-10.30.26:569][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.30.26:647][309]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.30.26:649][309]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.30.26
+[2019.03.23-10.30.26:650][309]LogWorld: Bringing up level for play took: 0.001649
+[2019.03.23-10.30.26:668][309]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 1,129
+[2019.03.23-10.30.26:668][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.30.59:756][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.30.59:756][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.30.59:780][264]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.30.59:836][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.30.59:836][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.30.59:981][265]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.03.23-10.31.28:006][939]LogHttp: Warning: 0000024911FECB80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.31.28:006][939]LogHttp: Warning: 0000024911FECB80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.31.28:006][939]LogHttp: Warning: 0000024911FECB80: libcurl info message cache 1 (Closing connection 21)
+[2019.03.23-10.31.28:006][939]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.32.11:260][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/teslaman/teslona/teslona_BP" FILE="../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset" SILENT=true
+[2019.03.23-10.32.11:358][517]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/teslona_BPF0F44B7F493FB43C160BF8A49AB78B84.tmp' to '../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset'
+[2019.03.23-10.33.28:041][ 95]LogHttp: Warning: 0000024930DB1440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.33.28:042][ 95]LogHttp: Warning: 0000024930DB1440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.33.28:042][ 95]LogHttp: Warning: 0000024930DB1440: libcurl info message cache 1 (Closing connection 22)
+[2019.03.23-10.33.28:042][ 95]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.33.31:297][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/teslaman/teslona/teslona_BP" FILE="../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset" SILENT=true
+[2019.03.23-10.33.31:388][288]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/teslona_BP2ED8201149D7C19C2691ACA5DD59FEA8.tmp' to '../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset'
+[2019.03.23-10.33.32:134][332]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.33.32:156][332]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.33.32:156][332]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.33.32:174][332]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.33.32:414][332]LogPlayLevel: PlayLevel: Blueprint regeneration took 258 ms (1 blueprints)
+[2019.03.23-10.33.32:414][332]PIE: New page: PIE session: tesla_level (23/mar/2019 12:33:32)
+[2019.03.23-10.33.32:414][332]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.33.32:416][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002189s)
+[2019.03.23-10.33.32:417][332]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.33.32:417][332]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2019.03.23-10.33.32:417][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002763s)
+[2019.03.23-10.33.32:454][332]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.33.32:480][332]LogInit: FAudioDevice initialized.
+[2019.03.23-10.33.32:484][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.33.32:555][332]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.33.32:556][332]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.33.32
+[2019.03.23-10.33.32:557][332]LogWorld: Bringing up level for play took: 0.001070
+[2019.03.23-10.33.32:574][332]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 1,036
+[2019.03.23-10.33.32:575][332]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.33.39:284][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.33.39:285][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.33.39:309][725]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.33.39:339][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.33.39:339][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.33.39:406][726]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.03.23-10.33.44:641][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/teslaman/teslona/teslona_BP" FILE="../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset" SILENT=true
+[2019.03.23-10.33.44:727][ 36]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/teslona_BP78784EBA473340BA9660C99C05ABA9A1.tmp' to '../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset'
+[2019.03.23-10.33.45:348][ 70]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.33.45:387][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.33.45:387][ 70]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.33.45:408][ 70]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.33.45:625][ 70]LogPlayLevel: PlayLevel: Blueprint regeneration took 237 ms (1 blueprints)
+[2019.03.23-10.33.45:625][ 70]PIE: New page: PIE session: tesla_level (23/mar/2019 12:33:45)
+[2019.03.23-10.33.45:625][ 70]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.33.45:627][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002400s)
+[2019.03.23-10.33.45:628][ 70]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.33.45:628][ 70]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2019.03.23-10.33.45:628][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.003046s)
+[2019.03.23-10.33.45:677][ 70]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.33.45:714][ 70]LogInit: FAudioDevice initialized.
+[2019.03.23-10.33.45:720][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.33.45:799][ 70]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.33.45:802][ 70]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.33.45
+[2019.03.23-10.33.45:802][ 70]LogWorld: Bringing up level for play took: 0.002254
+[2019.03.23-10.33.45:821][ 70]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 0,282
+[2019.03.23-10.33.45:821][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.34.06:804][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.34.06:804][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.34.06:829][313]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.34.06:860][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.34.06:860][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.34.06:923][314]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.03.23-10.35.09:049][995]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.35.09:105][995]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.35.09:105][995]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.35.09:125][995]LogPlayLevel: [PlayLevel] Compiling UI_principal before play...
+[2019.03.23-10.35.09:395][995]LogPlayLevel: PlayLevel: Blueprint regeneration took 289 ms (1 blueprints)
+[2019.03.23-10.35.09:395][995]PIE: New page: PIE session: tesla_level (23/mar/2019 12:35:09)
+[2019.03.23-10.35.09:395][995]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.35.09:397][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002263s)
+[2019.03.23-10.35.09:398][995]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.35.09:398][995]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2019.03.23-10.35.09:398][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002984s)
+[2019.03.23-10.35.09:441][995]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.35.09:470][995]LogInit: FAudioDevice initialized.
+[2019.03.23-10.35.09:476][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.35.09:561][995]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.35.09:563][995]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.35.09
+[2019.03.23-10.35.09:563][995]LogWorld: Bringing up level for play took: 0.001278
+[2019.03.23-10.35.09:581][995]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 0,043
+[2019.03.23-10.35.09:582][995]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.35.28:068][ 23]LogHttp: Warning: 0000024926B20F40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.35.28:068][ 23]LogHttp: Warning: 0000024926B20F40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.35.28:068][ 23]LogHttp: Warning: 0000024926B20F40: libcurl info message cache 1 (Closing connection 23)
+[2019.03.23-10.35.28:087][ 24]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.35.32:842][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.35.32:842][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.35.32:878][290]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.35.32:912][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.35.32:912][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.35.32:976][291]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.03.23-10.35.47:650][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/teslaman/teslona/teslona_BP" FILE="../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset" SILENT=true
+[2019.03.23-10.35.47:743][143]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/teslona_BPEF9401B64DF46B789E2E1F8976628FFD.tmp' to '../../../../../unreal_projects/scvdes/Content/characters/teslaman/teslona/teslona_BP.uasset'
+[2019.03.23-10.35.48:370][180]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.35.48:391][180]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.35.48:391][180]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.35.48:409][180]LogPlayLevel: [PlayLevel] Compiling teslona_BP before play...
+[2019.03.23-10.35.48:612][180]LogPlayLevel: PlayLevel: Blueprint regeneration took 220 ms (1 blueprints)
+[2019.03.23-10.35.48:612][180]PIE: New page: PIE session: tesla_level (23/mar/2019 12:35:48)
+[2019.03.23-10.35.48:612][180]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.35.48:614][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002151s)
+[2019.03.23-10.35.48:614][180]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.35.48:615][180]LogPlayLevel: PIE: World Init took: (0.000459s)
+[2019.03.23-10.35.48:615][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.002708s)
+[2019.03.23-10.35.48:651][180]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.35.48:676][180]LogInit: FAudioDevice initialized.
+[2019.03.23-10.35.48:681][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.35.48:754][180]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.35.48:755][180]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.35.48
+[2019.03.23-10.35.48:755][180]LogWorld: Bringing up level for play took: 0.001080
+[2019.03.23-10.35.48:773][180]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level 1,234
+[2019.03.23-10.35.48:774][180]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.36.04:170][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.36.04:170][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.36.04:191][ 92]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.36.04:223][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.36.04:223][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.36.04:292][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.03.23-10.37.28:106][116]LogHttp: Warning: 00000248EC2CFC40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.37.28:106][116]LogHttp: Warning: 00000248EC2CFC40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.37.28:106][116]LogHttp: Warning: 00000248EC2CFC40: libcurl info message cache 1 (Closing connection 24)
+[2019.03.23-10.37.28:106][116]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.39.18:287][660]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/tesla_level_Auto37DBF703E4231571C7E95A49A174205EE.tmp' to '../../../../../unreal_projects/scvdes/Saved/Autosaves/Game/official_level/tesla_level_Auto3.umap'
+[2019.03.23-10.39.18:289][660]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/official_level/tesla_level' took 0.219
+[2019.03.23-10.39.18:289][660]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.219
+[2019.03.23-10.39.18:291][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/prot_mio/prot_mio_finito] ([1] browsable assets)...
+[2019.03.23-10.39.18:314][660]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/prot_mio/prot_mio_finito.prot_mio_finito]
+[2019.03.23-10.39.18:314][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/prot_mio/prot_mio_finito]
+[2019.03.23-10.39.18:314][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prot_mio/prot_mio_finito" FILE="../../../../../unreal_projects/scvdes/Saved/Autosaves/Game/prot_mio/prot_mio_finito_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.03.23-10.39.18:423][660]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/prot_mio_finito_Auto3217CD6CF49B1DDDADA7C2BBF7DEF1842.tmp' to '../../../../../unreal_projects/scvdes/Saved/Autosaves/Game/prot_mio/prot_mio_finito_Auto3.uasset'
+[2019.03.23-10.39.18:701][660]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/prot_mio/widget/UI_principal] ([1] browsable assets)...
+[2019.03.23-10.39.18:702][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/prot_mio/widget/UI_principal]
+[2019.03.23-10.39.18:702][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prot_mio/widget/UI_principal" FILE="../../../../../unreal_projects/scvdes/Saved/Autosaves/Game/prot_mio/widget/UI_principal_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.03.23-10.39.18:746][660]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/UI_principal_Auto3C4FCCC8F43DBC8563476F495F0F29DEE.tmp' to '../../../../../unreal_projects/scvdes/Saved/Autosaves/Game/prot_mio/widget/UI_principal_Auto3.uasset'
+[2019.03.23-10.39.18:765][660]LogFileHelpers: Auto-saving content packages took 0.474
+[2019.03.23-10.39.28:125][218]LogHttp: Warning: 000002492E6D6200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.39.28:125][218]LogHttp: Warning: 000002492E6D6200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.39.28:125][218]LogHttp: Warning: 000002492E6D6200: libcurl info message cache 1 (Closing connection 25)
+[2019.03.23-10.39.28:125][218]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.41.28:154][394]LogHttp: Warning: 0000024930D96C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.23-10.41.28:154][394]LogHttp: Warning: 0000024930D96C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.23-10.41.28:154][394]LogHttp: Warning: 0000024930D96C00: libcurl info message cache 1 (Closing connection 26)
+[2019.03.23-10.41.28:154][394]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5144D927-40C9-6779-284D-D784DA51903B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=60b91cd948b3920b0e6d30a2433a21bb%7Ccf31ae65f436493ab355b0092cb94804%7C66452bad-a373-49f4-97bf-a40d0f546fea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.23-10.42.29:390][957]BlueprintLog: New page: Compile prot_mio_finito
+[2019.03.23-10.42.34:089][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prot_mio/prot_mio_finito" FILE="../../../../../unreal_projects/scvdes/Content/prot_mio/prot_mio_finito.uasset" SILENT=true
+[2019.03.23-10.42.34:186][207]LogSavePackage: Moving '../../../../../unreal_projects/scvdes/Saved/prot_mio_finitoA5D5B5744832B63621A866BD34A5A1F6.tmp' to '../../../../../unreal_projects/scvdes/Content/prot_mio/prot_mio_finito.uasset'
+[2019.03.23-10.42.34:843][243]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.23-10.42.34:869][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.42.34:869][243]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.23-10.42.34:891][243]LogPlayLevel: [PlayLevel] Compiling UI_principal before play...
+[2019.03.23-10.42.35:169][243]LogPlayLevel: PlayLevel: Blueprint regeneration took 299 ms (1 blueprints)
+[2019.03.23-10.42.35:169][243]PIE: New page: PIE session: tesla_level (23/mar/2019 12:42:35)
+[2019.03.23-10.42.35:169][243]LogPlayLevel: Creating play world package: /Game/official_level/UEDPIE_0_tesla_level
+[2019.03.23-10.42.35:172][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002384s)
+[2019.03.23-10.42.35:172][243]LogAIModule: Creating AISystem for world tesla_level
+[2019.03.23-10.42.35:172][243]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2019.03.23-10.42.35:172][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/official_level/tesla_level.tesla_level to /Game/official_level/UEDPIE_0_tesla_level.tesla_level (0.003070s)
+[2019.03.23-10.42.35:217][243]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-10.42.35:252][243]LogInit: FAudioDevice initialized.
+[2019.03.23-10.42.35:257][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.42.35:343][243]LogLoad: Game class is 'prot_mio_C'
+[2019.03.23-10.42.35:345][243]LogWorld: Bringing World /Game/official_level/UEDPIE_0_tesla_level.tesla_level up for play (max tick rate 60) at 2019.03.23-11.42.35
+[2019.03.23-10.42.35:345][243]LogWorld: Bringing up level for play took: 0.001289
+[2019.03.23-10.42.35:364][243]PIE: Play in editor start time for /Game/official_level/UEDPIE_0_tesla_level -0,174
+[2019.03.23-10.42.35:365][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.42.41:586][601]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.42.41:586][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-10.42.41:624][601]LogSlate: Window 'scvdes Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.23-10.42.41:661][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-10.42.41:662][601]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/official_level/tesla_level.tesla_level:PersistentLevel' has LevelScriptBlueprint '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level' with GeneratedClass '/Game/official_level/tesla_level.tesla_level_C' with ClassGeneratedBy '/Game/official_level/tesla_level.tesla_level:PersistentLevel.tesla_level'
+[2019.03.23-10.42.41:748][602]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.03.23-10.42.52:097][209]LogUObjectArray: Warning: Other object in slot
+[2019.03.23-10.42.52:097][209]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.03.23-10.42.53:858][209]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.760 s
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: 
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: Stack: 
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffedb278304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffedb2881ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffed95cbcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffed7bf769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffed7bb0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffedc507c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffedc754393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffedc562d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffedc538a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffedc52b263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffefd19dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffefd190de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffefd1a01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffefd18ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007fff1820ca66 USER32.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007fff1820c582 USER32.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ffefd1a1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ff66a565546 UE4Editor.exe!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ff66a57596c UE4Editor.exe!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ff66a5759ea UE4Editor.exe!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ff66a5848da UE4Editor.exe!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007ff66a58659a UE4Editor.exe!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007fff167a81f4 KERNEL32.DLL!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: [Callstack] 0x00007fff1893a251 ntdll.dll!UnknownFunction []
+[2019.03.23-10.42.53:858][209]LogOutputDevice: Error: 
+[2019.03.23-10.42.53:864][209]LogStats:                SubmitErrorReport -  0.000 s
